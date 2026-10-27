@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "name": "Laptop",
+        "price": 65000,
+        "category": "Electronics",
+        "brand": "HP",
+        "stock": 10,
+        "image": "https://placehold.co/300x200",
+        "description": "A powerful laptop for everyday use."
+    },
+    {
+        "id": "2",
+        "name": "Smartphone",
+        "price": 25000,
+        "category": "Electronics",
+        "brand": "Samsung",
+        "stock": 15,
+        "image": "https://placehold.co/300x200",
+        "description": "A modern smartphone with a great camera."
+    },
+    {
+        "id": "3",
+        "name": "Headphones",
+        "price": 2500,
+        "category": "Accessories",
+        "brand": "Sony",
+        "stock": 20,
+        "image": "https://placehold.co/300x200",
+        "description": "Comfortable wireless headphones."
+    },
+    {
+        "id": "4",
+        "name": "Keyboard",
+        "price": 1500,
+        "category": "Accessories",
+        "brand": "Logitech",
+        "stock": 12,
+        "image": "https://placehold.co/300x200",
+        "description": "A durable keyboard for work and gaming."
+    },
+    {
+        "id": "5",
+        "name": "Smartwatch",
+        "price": 4500,
+        "category": "Wearables",
+        "brand": "Xiaomi",
+        "stock": 8,
+        "image": "https://placehold.co/300x200",
+        "description": "A smartwatch for tracking daily activities."
+    }
+]
