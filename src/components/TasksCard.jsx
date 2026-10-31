@@ -4,13 +4,13 @@ import { Card, Link } from "@heroui/react";
 
 const TasksCard = ({ task }) => {
 
-    const { name, description } = task;
+    const { title, description } = task;
 
     return (
         <Card variant='primary' className=" border-2 border-primary">
             {/* <CircleDollar aria-label="Dollar sign icon" className="text-primary size-6" role="img" /> */}
             <Card.Header>
-                <Card.Title>{name}</Card.Title>
+                <Card.Title>{title}</Card.Title>
                 <Card.Description>
                     {description}
                 </Card.Description>
